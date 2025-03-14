@@ -1,7 +1,7 @@
 [project]
-name = "comfyui_findit"
+name = "ComfyUI-FindIt"
 description = "Custom node for finding files and showing their contents"
-version = "0.0.3"
+version = "0.0.4"
 license = { file = "LICENSE" }
 
 [project.urls]
